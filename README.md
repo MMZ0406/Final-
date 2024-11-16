@@ -1,1 +1,4 @@
-# Final-
+# Sentiment Analysis of Reddit Discussions Around FAANG Stocks(Facebook, Amazon, Apple, Netflix, Google) During Earnings Seasons
+
+**Abstract** <br>
+"Retail investors have become a powerful force in the financial markets, with platforms like Reddit’s r/WallStreetBets serving as key spaces for discussing stock trends and earnings reports. This project examines the relationship between sentiment in Reddit discussions and stock price movements during the quarterly earnings seasons of FAANG companies—Facebook, Amazon, Apple, Netflix, and Google. By employing methods such as word frequency analysis, TF-IDF, and sentiment analysis, this study aims to identify how sentiment evolves before and after earnings calls and whether these shifts align with stock price changes. The findings will contribute to understanding the growing influence of online investor communities on market dynamics, particularly in the context of retail investor sentiment and FAANG stock performance."
